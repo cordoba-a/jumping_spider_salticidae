@@ -1,5 +1,5 @@
 # jumping_spider_salticidae
-## :rocket: Proyecto: "Diversidad y distribución de las arañas saltarinas (familia Salticidae) en México"
+## :rocket: Proyecto: Diversidad y distribución de las arañas saltarinas (familia Salticidae) en México
 *José Eduardo Cordoba Arango*   
 
 ![imagen](imagenes/dataset-card.jpg)
