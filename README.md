@@ -2,7 +2,7 @@
 ## :rocket: Proyecto: Diversidad y distribución de las arañas saltarinas (familia Salticidae) en México
 *José Eduardo Cordoba Arango*   
 
-![imagen](imagenes/dataset-card.jpg)
+![imagen](imagenes/composicion.jpg)
 
 
 
