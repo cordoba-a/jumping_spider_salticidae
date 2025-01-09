@@ -1,6 +1,6 @@
 # jumping_spider_salticidae
 ## 🚀 Proyecto: Diversidad y distribución de las arañas saltarinas (Araneae: Salticidae) en México
-**Ingeniería en Ciencia de Datos, UNITEC**
+**Ingeniería en Ciencia de Datos, UNITEC**     
 *José Eduardo Cordoba Arango*
 
 ![imagen](imagenes/composicion.jpg)
@@ -8,9 +8,7 @@
 ---
 
 ### Introducción
-Este proyecto está basado en el reto *Survival Patterns of Cancers* disponible en la plataforma [Kaggle](https://www.kaggle.com/saurabhshahane/survival-patterns-of-cancers).
-
-Este proyecto incluye dos conjuntos de datos:
+Este proyecto está basado en
 
 - Datos sobre el [catálogo mundial de arañas](https://wsc.nmbe.ch/).
 - Datos sobre el registros de ejemplares, de lafamilia Salticidae del [Sistema Nacional de Información sobre Biodiversidad](https://www.snib.mx/ejemplares/descarga/version/?v=201807) de CONABIO.
