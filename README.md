@@ -21,7 +21,7 @@ En el caso del segunod conjunto de datos, se encuentra informacion relacionada a
 
 ---
 
-#### Objetivos y Tareas
+### Objetivos y Tareas
 
 - Cargar los datos en un modelo de base de datos relacional.
 
@@ -43,7 +43,7 @@ Se contó inicialmente con los siguientes conjuntos de datos:
 
 ---
 
-#### Referencia
+### Referencia
 
 World Spider Catalog (2024). World Spider Catalog. Version 25.5. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on {dgitate of access}. doi: 10.24436/2
 
