@@ -8,7 +8,7 @@
 ---
 
 ### Introducción
-Este proyecto está basado en
+Este proyecto está basado en:
 
 - Datos sobre el [catálogo mundial de arañas](https://wsc.nmbe.ch/).
 - Datos sobre el registros de ejemplares, de lafamilia Salticidae del [Sistema Nacional de Información sobre Biodiversidad](https://www.snib.mx/ejemplares/descarga/version/?v=201807) de CONABIO.
@@ -43,6 +43,6 @@ Se contó inicialmente con los siguientes conjuntos de datos:
 
 ### Referencia
 
-World Spider Catalog (2024). World Spider Catalog. Version 25.5. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on {dgitate of access}. doi: 10.24436/2
+World Spider Catalog (2025). World Spider Catalog. Version 25.5. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on {date of access}. doi: 10.24436/2
 
 CONABIO. 2024. Sistema Nacional de Información sobre Biodiversidad. Registros de ejemplares. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Ciudad de México, México.
