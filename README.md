@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo analizar la diversidad y distribución de las 
 
 ### Carga y preprocesamiento de datos
 Se descargaron los siguientes conjuntos de datos:
-* **Catálogo mundial de arañas:** versión 25.5 ([world_spider_catalog_v25_5.csv](datasets/world_spider_catalog_v25_5.cdv))
+* **Catálogo mundial de arañas:** versión 25.5 ([world_spider_catalog_v25_5.csv](datasets/world_spider_catalog_v25_5.csv))
 * **SNIB:** registros de ejemplares de la familia Salticidae en México ([salticidae_mexico_conabio.csv](datasets/salticidae_mexico_conabio.csv))
 
 Los datos fueron limpiados y formateados para su posterior análisis en Python.
