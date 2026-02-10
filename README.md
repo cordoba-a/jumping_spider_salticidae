@@ -3,7 +3,7 @@
 **Ingeniería en Ciencia de Datos, UNITEC**     
 *José Eduardo Córdoba Arango*
 
-![imagen](imagenes/composicion.jpg)
+![imagen](docs/images/cover_salticidae_mexico.png)
 
 ---
 
@@ -21,14 +21,14 @@ Este proyecto tiene como objetivo analizar la diversidad y distribución de las 
 
 ### Carga y preprocesamiento de datos
 Se descargaron los siguientes conjuntos de datos:
-* **Catálogo mundial de arañas:** versión 25.5 ([world_spider_catalog_v25_5.csv](datasets/world_spider_catalog_v25_5.csv))
-* **SNIB:** registros de ejemplares de la familia Salticidae en México ([salticidae_mexico_conabio.csv](datasets/salticidae_mexico_conabio.csv))
+* **Catálogo mundial de arañas:** versión 27 ([world_spider_catalog_20260209.csv](data/raw/world_spider_catalog_20260209.csv))
+* **SNIB:** registros de ejemplares de la familia Salticidae en México ([salticidae_mexico_conabio.csv](data/raw/salticidae_mexico_conabio.csv))
 
 Los datos fueron limpiados y formateados para su posterior análisis en Python.
 
 ---
 
 ### Referencias
-World Spider Catalog (2025). World Spider Catalog. Version 25.5. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on {date of access}. doi: 10.24436/2
+World Spider Catalog 2026. World Spider Catalog. Version 27. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on February 9, 2026. doi: 10.24436/2
 
 CONABIO. 2024. Sistema Nacional de Información sobre Biodiversidad. Registros de ejemplares. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Ciudad de México, México.

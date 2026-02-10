@@ -1,0 +1,256 @@
+speciesId,species_lsid,family,genus,species,subspecies,author,year,parentheses,distribution
+27925,urn:lsid:nmbe.ch:spidersp:032135,Salticidae,Acragas,hieroglyphicus,,G. W. Peckham & E. G. Peckham,1896,1,Mexico to Panama
+27937,urn:lsid:nmbe.ch:spidersp:032147,Salticidae,Acragas,quadriguttatus,,F. O. Pickard-Cambridge,1901,1,Mexico to Panama
+28092,urn:lsid:nmbe.ch:spidersp:032266,Salticidae,Alcmena,amabilis,,C. L. Koch,1846,0,Mexico
+28114,urn:lsid:nmbe.ch:spidersp:032285,Salticidae,Amycus,flavolineatus,,C. L. Koch,1846,0,Mexico
+28132,urn:lsid:nmbe.ch:spidersp:032299,Salticidae,Anicius,dolius,,Chamberlin,1925,0,Mexico
+28205,urn:lsid:nmbe.ch:spidersp:032362,Salticidae,Ashtabula,glauca,,Simon,1901,0,Mexico
+28228,urn:lsid:nmbe.ch:spidersp:032384,Salticidae,Attidops,cutleri,,Edwards,1999,0,"USA, Mexico"
+28248,urn:lsid:nmbe.ch:spidersp:032399,Salticidae,Bagheera,kiplingi,,G. W. Peckham & E. G. Peckham,1896,0,Mexico to Costa Rica
+28251,urn:lsid:nmbe.ch:spidersp:032400,Salticidae,Bagheera,prosper,,G. W. Peckham & E. G. Peckham,1901,1,"USA, Mexico"
+28336,urn:lsid:nmbe.ch:spidersp:032479,Salticidae,Beata,hispida,,G. W. Peckham & E. G. Peckham,1901,1,Mexico
+28425,urn:lsid:nmbe.ch:spidersp:032571,Salticidae,Breda,milvina,,C. L. Koch,1846,1,"Mexico, Panama, Trinidad, Brazil, Bolivia"
+28576,urn:lsid:nmbe.ch:spidersp:032700,Salticidae,Chapoda,inermis,,F. O. Pickard-Cambridge,1901,1,Mexico to Panama
+28661,urn:lsid:nmbe.ch:spidersp:032775,Salticidae,Sidusa,perdita,,Banks,1898,1,Mexico
+28777,urn:lsid:nmbe.ch:spidersp:032870,Salticidae,Corythalia,binotata,,F. O. Pickard-Cambridge,1901,1,Mexico
+28787,urn:lsid:nmbe.ch:spidersp:032878,Salticidae,Corythalia,circumcincta,,F. O. Pickard-Cambridge,1901,1,Mexico
+28793,urn:lsid:nmbe.ch:spidersp:032883,Salticidae,Corythalia,cristata,,F. O. Pickard-Cambridge,1901,1,Mexico
+28799,urn:lsid:nmbe.ch:spidersp:032889,Salticidae,Corythalia,excavata,,F. O. Pickard-Cambridge,1901,1,Mexico
+28815,urn:lsid:nmbe.ch:spidersp:032904,Salticidae,Corythalia,nigriventer,,F. O. Pickard-Cambridge,1901,1,"Mexico, Panama"
+28819,urn:lsid:nmbe.ch:spidersp:032908,Salticidae,Corythalia,opima,,G. W. Peckham & E. G. Peckham,1885,1,"USA, Mexico, Guatemala, El Salvador"
+28822,urn:lsid:nmbe.ch:spidersp:032911,Salticidae,Corythalia,parvula,,G. W. Peckham & E. G. Peckham,1896,1,Mexico to Panama
+28825,urn:lsid:nmbe.ch:spidersp:032913,Salticidae,Corythalia,penicillata,,F. O. Pickard-Cambridge,1901,1,"Mexico, Guatemala"
+28829,urn:lsid:nmbe.ch:spidersp:032917,Salticidae,Corythalia,quadriguttata,,F. O. Pickard-Cambridge,1901,1,Mexico to Panama
+28910,urn:lsid:nmbe.ch:spidersp:032987,Salticidae,Cotinusa,distincta,,G. W. Peckham & E. G. Peckham,1888,1,Mexico to Peru
+28940,urn:lsid:nmbe.ch:spidersp:033011,Salticidae,Cylistella,adjacens,,O. Pickard-Cambridge,1896,1,"Mexico, Costa Rica"
+28946,urn:lsid:nmbe.ch:spidersp:033017,Salticidae,Cylistella,scarabaeoides,,O. Pickard-Cambridge,1894,1,"Mexico, Panama"
+29051,urn:lsid:nmbe.ch:spidersp:033114,Salticidae,Dendryphantes,pugnax,,C. L. Koch,1846,1,Mexico
+29066,urn:lsid:nmbe.ch:spidersp:033129,Salticidae,Dendryphantes,strenuus,,C. L. Koch,1846,1,Mexico
+29070,urn:lsid:nmbe.ch:spidersp:033131,Salticidae,Dendryphantes,zygoballoides,,Chamberlin,1924,0,Mexico
+29181,urn:lsid:nmbe.ch:spidersp:033222,Salticidae,Eris,bulbosa,,Karsch,1880,1,Mexico
+29190,urn:lsid:nmbe.ch:spidersp:033239,Salticidae,Eris,tricolor,,C. L. Koch,1846,1,Mexico
+29191,urn:lsid:nmbe.ch:spidersp:033240,Salticidae,Eris,trimaculata,,Banks,1898,1,Mexico
+29205,urn:lsid:nmbe.ch:spidersp:033255,Salticidae,Euophrys,banksi,,Roewer,1951,0,Mexico
+29462,urn:lsid:nmbe.ch:spidersp:033466,Salticidae,Leptofreya,bifurcata,,F. O. Pickard-Cambridge,1901,1,"Mexico, Panama"
+29476,urn:lsid:nmbe.ch:spidersp:033481,Salticidae,Tarkas,maculatipes,,F. O. Pickard-Cambridge,1901,1,"Mexico, Guatemala"
+29481,urn:lsid:nmbe.ch:spidersp:033486,Salticidae,Freya,prominens,,F. O. Pickard-Cambridge,1901,1,Mexico to Panama
+29482,urn:lsid:nmbe.ch:spidersp:033487,Salticidae,Freya,regia,,G. W. Peckham & E. G. Peckham,1896,1,"Mexico, Guatemala"
+29492,urn:lsid:nmbe.ch:spidersp:033497,Salticidae,Frigga,pratensis,,G. W. Peckham & E. G. Peckham,1885,1,Mexico to Colombia
+29498,urn:lsid:nmbe.ch:spidersp:040815,Salticidae,Fuentes,yucatan,,Ruiz & Brescovit,2007,0,"Mexico, Honduras"
+29599,urn:lsid:nmbe.ch:spidersp:033594,Salticidae,Habronattus,abditus,,Griswold,1987,0,Mexico
+29602,urn:lsid:nmbe.ch:spidersp:033597,Salticidae,Habronattus,altanus,,Gertsch,1934,1,"Canada, USA, Mexico"
+29605,urn:lsid:nmbe.ch:spidersp:033600,Salticidae,Habronattus,ammophilus,,Chamberlin,1924,1,Mexico
+29606,urn:lsid:nmbe.ch:spidersp:033601,Salticidae,Habronattus,anepsius,,Chamberlin,1924,1,"USA, Mexico"
+29607,urn:lsid:nmbe.ch:spidersp:033602,Salticidae,Habronattus,aztecanus,,Banks,1898,1,Mexico
+29609,urn:lsid:nmbe.ch:spidersp:033604,Salticidae,Habronattus,banksi,,G. W. Peckham & E. G. Peckham,1901,1,"Mexico to Panama, Jamaica"
+29616,urn:lsid:nmbe.ch:spidersp:033611,Salticidae,Habronattus,californicus,,Banks,1904,1,"USA, Mexico"
+29617,urn:lsid:nmbe.ch:spidersp:033612,Salticidae,Habronattus,cambridgei,,Bryant,1948,0,Mexico to Guatemala
+29620,urn:lsid:nmbe.ch:spidersp:033615,Salticidae,Habronattus,carpus,,Griswold,1987,0,Mexico
+29622,urn:lsid:nmbe.ch:spidersp:033617,Salticidae,Habronattus,clypeatus,,Banks,1895,1,"USA, Mexico"
+29624,urn:lsid:nmbe.ch:spidersp:033619,Salticidae,Habronattus,coecatus,,Hentz,1846,1,"USA, Mexico, Bermuda"
+29625,urn:lsid:nmbe.ch:spidersp:033620,Salticidae,Habronattus,cognatus,,G. W. Peckham & E. G. Peckham,1901,1,"Canada, USA, Mexico"
+29626,urn:lsid:nmbe.ch:spidersp:033621,Salticidae,Habronattus,conjunctus,,Banks,1898,1,"USA, Mexico"
+29627,urn:lsid:nmbe.ch:spidersp:033622,Salticidae,Habronattus,contingens,,Chamberlin,1925,1,Mexico
+29631,urn:lsid:nmbe.ch:spidersp:033626,Salticidae,Habronattus,divaricatus,,Banks,1898,1,Mexico
+29632,urn:lsid:nmbe.ch:spidersp:033627,Salticidae,Habronattus,dorotheae,,Gertsch & Mulaik,1936,1,"USA, Mexico"
+29633,urn:lsid:nmbe.ch:spidersp:033628,Salticidae,Habronattus,dossenus,,Griswold,1987,0,Mexico
+29634,urn:lsid:nmbe.ch:spidersp:033629,Salticidae,Habronattus,elegans,,G. W. Peckham & E. G. Peckham,1901,1,"USA, Mexico"
+29638,urn:lsid:nmbe.ch:spidersp:033633,Salticidae,Habronattus,fallax,,G. W. Peckham & E. G. Peckham,1909,1,"USA, Mexico"
+29641,urn:lsid:nmbe.ch:spidersp:033636,Salticidae,Habronattus,forticulus,,Gertsch & Mulaik,1936,1,"USA, Mexico"
+29643,urn:lsid:nmbe.ch:spidersp:033638,Salticidae,Habronattus,geronimoi,,Griswold,1987,0,"USA, Mexico, Nicaragua"
+29644,urn:lsid:nmbe.ch:spidersp:033639,Salticidae,Habronattus,gigas,,Griswold,1987,0,Mexico
+29645,urn:lsid:nmbe.ch:spidersp:033640,Salticidae,Habronattus,hallani,,Richman,1973,1,"USA, Mexico"
+29646,urn:lsid:nmbe.ch:spidersp:033641,Salticidae,Habronattus,hirsutus,,G. W. Peckham & E. G. Peckham,1888,1,"Canada, USA, Mexico"
+29647,urn:lsid:nmbe.ch:spidersp:033642,Salticidae,Habronattus,huastecanus,,Griswold,1987,0,Mexico
+29648,urn:lsid:nmbe.ch:spidersp:033643,Salticidae,Habronattus,icenoglei,,Griswold,1979,1,"USA, Mexico"
+29649,urn:lsid:nmbe.ch:spidersp:033644,Salticidae,Habronattus,iviei,,Griswold,1987,0,Mexico
+29651,urn:lsid:nmbe.ch:spidersp:033646,Salticidae,Habronattus,kawini,,Griswold,1979,1,"USA, Mexico"
+29652,urn:lsid:nmbe.ch:spidersp:033647,Salticidae,Habronattus,klauseri,,G. W. Peckham & E. G. Peckham,1901,1,"USA, Mexico"
+29655,urn:lsid:nmbe.ch:spidersp:033650,Salticidae,Habronattus,mataxus,,Griswold,1987,0,"USA, Mexico"
+29657,urn:lsid:nmbe.ch:spidersp:033652,Salticidae,Habronattus,moratus,,Gertsch & Mulaik,1936,1,"USA, Mexico"
+29659,urn:lsid:nmbe.ch:spidersp:033654,Salticidae,Habronattus,nahuatlanus,,Griswold,1987,0,Mexico
+29667,urn:lsid:nmbe.ch:spidersp:033662,Salticidae,Habronattus,oregonensis,,G. W. Peckham & E. G. Peckham,1888,1,"Canada, USA, Mexico"
+29670,urn:lsid:nmbe.ch:spidersp:033664,Salticidae,Habronattus,pochtecanus,,Griswold,1987,0,Mexico
+29672,urn:lsid:nmbe.ch:spidersp:033666,Salticidae,Habronattus,pugillis,,Griswold,1987,0,"USA, Mexico"
+29673,urn:lsid:nmbe.ch:spidersp:033667,Salticidae,Habronattus,pyrrithrix,,Chamberlin,1924,1,"USA, Mexico. Introduced to Hawaii"
+29674,urn:lsid:nmbe.ch:spidersp:033668,Salticidae,Habronattus,renidens,,Griswold,1987,0,Mexico
+29678,urn:lsid:nmbe.ch:spidersp:033671,Salticidae,Habronattus,schlingeri,,Griswold,1979,1,"USA, Mexico"
+29679,urn:lsid:nmbe.ch:spidersp:033672,Salticidae,Habronattus,signatus,,Banks,1900,1,"USA, Mexico"
+29680,urn:lsid:nmbe.ch:spidersp:033673,Salticidae,Habronattus,simplex,,G. W. Peckham & E. G. Peckham,1901,1,Mexico
+29681,urn:lsid:nmbe.ch:spidersp:033674,Salticidae,Habronattus,sugillatus,,Griswold,1987,0,"USA, Mexico"
+29683,urn:lsid:nmbe.ch:spidersp:033676,Salticidae,Habronattus,tarascanus,,Griswold,1987,0,Mexico
+29685,urn:lsid:nmbe.ch:spidersp:033678,Salticidae,Habronattus,texanus,,Chamberlin,1924,1,"USA, Mexico"
+29686,urn:lsid:nmbe.ch:spidersp:033679,Salticidae,Habronattus,tlaxcalanus,,Griswold,1987,0,Mexico
+29687,urn:lsid:nmbe.ch:spidersp:033680,Salticidae,Habronattus,tranquillus,,G. W. Peckham & E. G. Peckham,1901,1,"USA, Mexico"
+29690,urn:lsid:nmbe.ch:spidersp:033683,Salticidae,Habronattus,ustulatus,,Griswold,1979,1,"USA, Mexico"
+29691,urn:lsid:nmbe.ch:spidersp:033684,Salticidae,Habronattus,velivolus,,Griswold,1987,0,Mexico
+29693,urn:lsid:nmbe.ch:spidersp:033686,Salticidae,Habronattus,virgulatus,,Griswold,1987,0,"USA, Mexico"
+29696,urn:lsid:nmbe.ch:spidersp:033689,Salticidae,Habronattus,zapotecanus,,Griswold,1987,0,Mexico
+29697,urn:lsid:nmbe.ch:spidersp:033690,Salticidae,Habronattus,zebraneus,,F. O. Pickard-Cambridge,1901,0,Mexico
+29970,urn:lsid:nmbe.ch:spidersp:033897,Salticidae,Hentzia,poenitens,,Chamberlin,1924,1,Mexico
+30137,urn:lsid:nmbe.ch:spidersp:034064,Salticidae,Hypaeus,benignus,,G. W. Peckham & E. G. Peckham,1885,1,Mexico to Panama
+30170,urn:lsid:nmbe.ch:spidersp:034096,Salticidae,Icius,ildefonsus,,Chamberlin,1924,0,Mexico
+30412,urn:lsid:nmbe.ch:spidersp:034295,Salticidae,Lyssomanes,burrera,,Jiménez & Tejas,1993,0,Mexico
+30417,urn:lsid:nmbe.ch:spidersp:034301,Salticidae,Lyssomanes,deinognathus,,F. O. Pickard-Cambridge,1900,0,Mexico to Honduras
+30420,urn:lsid:nmbe.ch:spidersp:034304,Salticidae,Lyssomanes,diversus,,Galiano,1980,0,Mexico
+30423,urn:lsid:nmbe.ch:spidersp:034306,Salticidae,Lyssomanes,elegans,,F. O. Pickard-Cambridge,1900,0,Mexico to Ecuador and Brazil
+30431,urn:lsid:nmbe.ch:spidersp:034313,Salticidae,Lyssomanes,jemineus,,"G. W. Peckham, E. G. Peckham & Wheeler",1889,0,Mexico to Guyana
+30435,urn:lsid:nmbe.ch:spidersp:034318,Salticidae,Lyssomanes,leucomelas,,Mello-Leitão,1917,0,"Mexico, Brazil, Argentina"
+30438,urn:lsid:nmbe.ch:spidersp:034321,Salticidae,Lyssomanes,malinche,,Galiano,1980,0,Mexico
+30439,urn:lsid:nmbe.ch:spidersp:034322,Salticidae,Lyssomanes,mandibulatus,,F. O. Pickard-Cambridge,1900,0,Mexico to Panama
+30453,urn:lsid:nmbe.ch:spidersp:034334,Salticidae,Lyssomanes,pescadero,,Jiménez & Tejas,1993,0,Mexico
+30455,urn:lsid:nmbe.ch:spidersp:034336,Salticidae,Lyssomanes,placidus,,"G. W. Peckham, E. G. Peckham & Wheeler",1889,0,Mexico
+30459,urn:lsid:nmbe.ch:spidersp:034340,Salticidae,Lyssomanes,reductus,,G. W. Peckham & E. G. Peckham,1896,0,Mexico to Panama
+30464,urn:lsid:nmbe.ch:spidersp:034347,Salticidae,Lyssomanes,spiralis,,F. O. Pickard-Cambridge,1900,0,Mexico to Nicaragua
+30470,urn:lsid:nmbe.ch:spidersp:034353,Salticidae,Lyssomanes,temperatus,,Galiano,1980,0,Mexico
+30475,urn:lsid:nmbe.ch:spidersp:034357,Salticidae,Lyssomanes,unicolor,,Taczanowski,1871,1,"Mexico to Ecuador, Peru, Brazil"
+30630,urn:lsid:nmbe.ch:spidersp:034475,Salticidae,Balmaceda,minor,,F. O. Pickard-Cambridge,1901,1,"Mexico, Guatemala, El Salvador"
+30640,urn:lsid:nmbe.ch:spidersp:034482,Salticidae,Marpissa,pikei,,G. W. Peckham & E. G. Peckham,1888,1,"USA, Mexico, Cuba"
+30662,urn:lsid:nmbe.ch:spidersp:034503,Salticidae,Martella,lineatipes,,F. O. Pickard-Cambridge,1900,0,Mexico to Costa Rica
+30774,urn:lsid:nmbe.ch:spidersp:034603,Salticidae,Messua,limbata,,Banks,1898,1,"USA, Mexico"
+30777,urn:lsid:nmbe.ch:spidersp:034606,Salticidae,Messua,pura,,Bryant,1948,1,Mexico
+30778,urn:lsid:nmbe.ch:spidersp:034607,Salticidae,Messua,tridentata,,F. O. Pickard-Cambridge,1901,1,Mexico
+30783,urn:lsid:nmbe.ch:spidersp:034614,Salticidae,Metacyrba,taeniola,,Hentz,1846,1,"USA, Mexico"
+30784,urn:lsid:nmbe.ch:spidersp:039431,Salticidae,Metacyrba,taeniola,similis,Banks,1904,0,"USA, Mexico"
+30785,urn:lsid:nmbe.ch:spidersp:035201,Salticidae,Metacyrba,venusta,,Chickering,1946,1,Mexico to Venezuela
+30788,urn:lsid:nmbe.ch:spidersp:034617,Salticidae,Metaphidippus,apicalis,,F. O. Pickard-Cambridge,1901,0,Mexico
+30792,urn:lsid:nmbe.ch:spidersp:034621,Salticidae,Metaphidippus,carmenensis,,Chamberlin,1924,1,"USA, Mexico"
+30794,urn:lsid:nmbe.ch:spidersp:034623,Salticidae,Metaphidippus,chera,,Chamberlin,1924,1,"USA, Mexico"
+30800,urn:lsid:nmbe.ch:spidersp:034629,Salticidae,Metaphidippus,diplacis,,Chamberlin,1924,1,"USA, Mexico"
+30801,urn:lsid:nmbe.ch:spidersp:034630,Salticidae,Metaphidippus,dubitabilis,,G. W. Peckham & E. G. Peckham,1896,1,Mexico
+30805,urn:lsid:nmbe.ch:spidersp:034634,Salticidae,Messua,felix,,G. W. Peckham & E. G. Peckham,1901,1,"USA, Mexico. Introduced to Hawaii"
+30809,urn:lsid:nmbe.ch:spidersp:034638,Salticidae,Metaphidippus,gratus,,Bryant,1948,0,Mexico
+30815,urn:lsid:nmbe.ch:spidersp:034644,Salticidae,Metaphidippus,lanceolatus,,F. O. Pickard-Cambridge,1901,0,Mexico to Costa Rica
+30819,urn:lsid:nmbe.ch:spidersp:034649,Salticidae,Metaphidippus,nigropictus,,F. O. Pickard-Cambridge,1901,0,Mexico
+30853,urn:lsid:nmbe.ch:spidersp:036701,Salticidae,Mexigonus,arizonensis,,Banks,1904,1,"USA, Mexico"
+30854,urn:lsid:nmbe.ch:spidersp:036705,Salticidae,Mexigonus,dentichelis,,F. O. Pickard-Cambridge,1901,1,Mexico
+30855,urn:lsid:nmbe.ch:spidersp:036707,Salticidae,Mexigonus,minutus,,F. O. Pickard-Cambridge,1901,1,"USA, Mexico"
+30956,urn:lsid:nmbe.ch:spidersp:034747,Salticidae,Myrmapana,centralis,,G. W. Peckham & E. G. Peckham,1892,1,Mexico to Panama
+31153,urn:lsid:nmbe.ch:spidersp:034925,Salticidae,Nagaina,incunda,,G. W. Peckham & E. G. Peckham,1896,0,Mexico to Panama
+31161,urn:lsid:nmbe.ch:spidersp:033550,Salticidae,Naphrys,acerba,,G. W. Peckham & E. G. Peckham,1909,1,"USA, Mexico"
+31276,urn:lsid:nmbe.ch:spidersp:035018,Salticidae,Nycerella,delecta,,G. W. Peckham & E. G. Peckham,1896,1,Mexico to Panama
+31407,urn:lsid:nmbe.ch:spidersp:035096,Salticidae,Pachomius,dybowskii,,Taczanowski,1871,1,"Mexico, Guatemala, Panama, Grenada, Colombia, Venezuela, Trinidad and Tobago, Guyana, French Guiana, Ecuador, Brazil"
+31511,urn:lsid:nmbe.ch:spidersp:035166,Salticidae,Paradamoetas,carus,,G. W. Peckham & E. G. Peckham,1892,1,Mexico to El Salvador
+31531,urn:lsid:nmbe.ch:spidersp:035183,Salticidae,Paramarpissa,albopilosa,,Banks,1902,1,"USA, Mexico"
+31532,urn:lsid:nmbe.ch:spidersp:035184,Salticidae,Paramarpissa,griswoldi,,Logunov & Cutler,1999,0,"USA, Mexico"
+31533,urn:lsid:nmbe.ch:spidersp:035185,Salticidae,Paramarpissa,laeta,,Logunov & Cutler,1999,0,Mexico
+31534,urn:lsid:nmbe.ch:spidersp:035186,Salticidae,Paramarpissa,piratica,,G. W. Peckham & E. G. Peckham,1888,1,"USA, Mexico"
+31535,urn:lsid:nmbe.ch:spidersp:035187,Salticidae,Paramarpissa,sarta,,Logunov & Cutler,1999,0,Mexico
+31536,urn:lsid:nmbe.ch:spidersp:035188,Salticidae,Paramarpissa,tibialis,,F. O. Pickard-Cambridge,1901,0,Mexico
+31540,urn:lsid:nmbe.ch:spidersp:033223,Salticidae,Paraphidippus,disjunctus,,Banks,1898,1,Mexico to Costa Rica
+31542,urn:lsid:nmbe.ch:spidersp:035458,Salticidae,Paraphidippus,fulgidus,,C. L. Koch,1846,1,Mexico
+31543,urn:lsid:nmbe.ch:spidersp:033227,Salticidae,Paraphidippus,funebris,,Banks,1898,1,Mexico to Costa Rica
+31544,urn:lsid:nmbe.ch:spidersp:035459,Salticidae,Paraphidippus,fuscipes,,C. L. Koch,1846,1,Mexico
+31546,urn:lsid:nmbe.ch:spidersp:033229,Salticidae,Paraphidippus,inermis,,F. O. Pickard-Cambridge,1901,0,Mexico to Costa Rica
+31547,urn:lsid:nmbe.ch:spidersp:033230,Salticidae,Paraphidippus,laniipes,,F. O. Pickard-Cambridge,1901,0,Mexico
+31549,urn:lsid:nmbe.ch:spidersp:033232,Salticidae,Paraphidippus,mexicanus,,G. W. Peckham & E. G. Peckham,1888,1,Mexico
+31550,urn:lsid:nmbe.ch:spidersp:033234,Salticidae,Paraphidippus,nigropilosus,,Banks,1898,1,Mexico
+31551,urn:lsid:nmbe.ch:spidersp:035477,Salticidae,Paraphidippus,nitens,,C. L. Koch,1846,1,Mexico
+31568,urn:lsid:nmbe.ch:spidersp:035205,Salticidae,Peckhamia,americana,,G. W. Peckham & E. G. Peckham,1892,1,"USA, Mexico, Hispaniola"
+31576,urn:lsid:nmbe.ch:spidersp:035212,Salticidae,Pelegrina,aeneola,,Curtis,1892,1,"Canada, USA, Mexico"
+31577,urn:lsid:nmbe.ch:spidersp:035213,Salticidae,Pelegrina,arizonensis,,G. W. Peckham & E. G. Peckham,1901,1,"Canada, USA, Mexico"
+31579,urn:lsid:nmbe.ch:spidersp:035215,Salticidae,Pelegrina,bicuspidata,,F. O. Pickard-Cambridge,1901,1,"Mexico, Guatemala"
+31580,urn:lsid:nmbe.ch:spidersp:035216,Salticidae,Pelegrina,bunites,,Maddison,1996,0,"USA, Mexico"
+31581,urn:lsid:nmbe.ch:spidersp:035217,Salticidae,Pelegrina,chaimona,,Maddison,1996,0,"USA, Mexico"
+31583,urn:lsid:nmbe.ch:spidersp:035219,Salticidae,Pelegrina,clavator,,Maddison,1996,0,Mexico
+31586,urn:lsid:nmbe.ch:spidersp:035222,Salticidae,Pelegrina,edrilana,,Maddison,1996,0,Mexico
+31590,urn:lsid:nmbe.ch:spidersp:035226,Salticidae,Pelegrina,furcata,,F. O. Pickard-Cambridge,1901,1,"USA, Mexico"
+31595,urn:lsid:nmbe.ch:spidersp:035231,Salticidae,Pelegrina,kastoni,,Maddison,1996,0,"USA, Mexico"
+31597,urn:lsid:nmbe.ch:spidersp:035233,Salticidae,Pelegrina,morelos,,Maddison,1996,0,Mexico
+31598,urn:lsid:nmbe.ch:spidersp:035234,Salticidae,Pelegrina,neoleonis,,Maddison,1996,0,Mexico
+31599,urn:lsid:nmbe.ch:spidersp:035235,Salticidae,Pelegrina,ochracea,,F. O. Pickard-Cambridge,1901,1,"Mexico, Guatemala"
+31600,urn:lsid:nmbe.ch:spidersp:035236,Salticidae,Pelegrina,orestes,,Maddison,1996,0,"USA, Mexico"
+31601,urn:lsid:nmbe.ch:spidersp:035237,Salticidae,Pelegrina,pallidata,,F. O. Pickard-Cambridge,1901,1,Mexico to Nicaragua
+31607,urn:lsid:nmbe.ch:spidersp:035243,Salticidae,Pelegrina,sandaracina,,Maddison,1996,0,Mexico to Nicaragua
+31610,urn:lsid:nmbe.ch:spidersp:035246,Salticidae,Pelegrina,variegata,,F. O. Pickard-Cambridge,1901,1,Mexico to Panama
+31611,urn:lsid:nmbe.ch:spidersp:035247,Salticidae,Pelegrina,verecunda,,Chamberlin & Gertsch,1930,1,"USA, Mexico"
+31613,urn:lsid:nmbe.ch:spidersp:035249,Salticidae,Pelegrina,yucatecana,,Maddison,1996,0,Mexico
+31628,urn:lsid:nmbe.ch:spidersp:035263,Salticidae,Pellenattus,cinctipes,,Banks,1898,1,Mexico
+31630,urn:lsid:nmbe.ch:spidersp:035265,Salticidae,Pellenattus,corticolens,,Chamberlin,1924,1,Mexico
+31712,urn:lsid:nmbe.ch:spidersp:035341,Salticidae,Pensacola,sylvestris,,G. W. Peckham & E. G. Peckham,1896,1,"Mexico, Guatemala"
+31739,urn:lsid:nmbe.ch:spidersp:035361,Salticidae,Phanias,flavostriatus,,F. O. Pickard-Cambridge,1901,0,Mexico
+31741,urn:lsid:nmbe.ch:spidersp:035363,Salticidae,Phanias,furcillatus,,F. O. Pickard-Cambridge,1901,1,Mexico
+31769,urn:lsid:nmbe.ch:spidersp:035390,Salticidae,Phiale,bisignata,,F. O. Pickard-Cambridge,1901,1,"Mexico, Guatemala"
+31781,urn:lsid:nmbe.ch:spidersp:035403,Salticidae,Pachomius,hieroglyphicus,,F. O. Pickard-Cambridge,1901,1,Mexico
+31800,urn:lsid:nmbe.ch:spidersp:039132,Salticidae,Phidippus,adonis,,Edwards,2004,0,Mexico
+31801,urn:lsid:nmbe.ch:spidersp:035423,Salticidae,Phidippus,adumbratus,,Gertsch,1934,0,"USA, Mexico"
+31804,urn:lsid:nmbe.ch:spidersp:038330,Salticidae,Phidippus,albulatus,,F. O. Pickard-Cambridge,1901,0,Mexico
+31805,urn:lsid:nmbe.ch:spidersp:039133,Salticidae,Phidippus,amans,,Edwards,2004,0,Mexico
+31806,urn:lsid:nmbe.ch:spidersp:038329,Salticidae,Phidippus,apacheanus,,Chamberlin & Gertsch,1929,0,"USA, Mexico, Cuba"
+31807,urn:lsid:nmbe.ch:spidersp:035426,Salticidae,Phidippus,ardens,,G. W. Peckham & E. G. Peckham,1901,0,"USA, Mexico"
+31808,urn:lsid:nmbe.ch:spidersp:035427,Salticidae,Phidippus,arizonensis,,G. W. Peckham & E. G. Peckham,1883,1,"USA, Mexico"
+31809,urn:lsid:nmbe.ch:spidersp:035429,Salticidae,Phidippus,asotus,,Chamberlin & Ivie,1933,0,"USA, Mexico"
+31810,urn:lsid:nmbe.ch:spidersp:035430,Salticidae,Phidippus,audax,,Hentz,1845,1,"Canada, USA, Mexico. Introduced to Hawaii, Azores, India (Nicobar Is.)"
+31816,urn:lsid:nmbe.ch:spidersp:039134,Salticidae,Phidippus,boei,,Edwards,2004,0,"USA, Mexico"
+31819,urn:lsid:nmbe.ch:spidersp:035439,Salticidae,Phidippus,californicus,,G. W. Peckham & E. G. Peckham,1901,0,"USA, Mexico"
+31820,urn:lsid:nmbe.ch:spidersp:035440,Salticidae,Phidippus,cardinalis,,Hentz,1845,1,"USA, Mexico, possibly Panama"
+31821,urn:lsid:nmbe.ch:spidersp:035441,Salticidae,Phidippus,carneus,,G. W. Peckham & E. G. Peckham,1896,0,"USA, Mexico"
+31822,urn:lsid:nmbe.ch:spidersp:035442,Salticidae,Phidippus,carolinensis,,G. W. Peckham & E. G. Peckham,1909,0,"USA, Mexico"
+31823,urn:lsid:nmbe.ch:spidersp:039136,Salticidae,Phidippus,cerberus,,Edwards,2004,0,Mexico
+31824,urn:lsid:nmbe.ch:spidersp:035446,Salticidae,Phidippus,clarus,,Keyserling,1885,0,"Canada, USA, Mexico"
+31825,urn:lsid:nmbe.ch:spidersp:035448,Salticidae,Phidippus,comatus,,G. W. Peckham & E. G. Peckham,1901,0,"Canada, USA, Mexico"
+31827,urn:lsid:nmbe.ch:spidersp:035450,Salticidae,Phidippus,cruentus,,F. O. Pickard-Cambridge,1901,0,Mexico
+31829,urn:lsid:nmbe.ch:spidersp:039138,Salticidae,Phidippus,dianthus,,Edwards,2004,0,Mexico
+31832,urn:lsid:nmbe.ch:spidersp:035460,Salticidae,Phidippus,georgii,,G. W. Peckham & E. G. Peckham,1896,0,Mexico to El Salvador
+31836,urn:lsid:nmbe.ch:spidersp:035467,Salticidae,Phidippus,johnsoni,,G. W. Peckham & E. G. Peckham,1883,1,"Canada, USA, Mexico"
+31840,urn:lsid:nmbe.ch:spidersp:039142,Salticidae,Phidippus,maddisoni,,Edwards,2004,0,Mexico
+31842,urn:lsid:nmbe.ch:spidersp:039143,Salticidae,Phidippus,mimicus,,Edwards,2004,0,Mexico
+31843,urn:lsid:nmbe.ch:spidersp:039144,Salticidae,Phidippus,morpheus,,Edwards,2004,0,"USA, Mexico"
+31845,urn:lsid:nmbe.ch:spidersp:035476,Salticidae,Phidippus,nikites,,Chamberlin & Ivie,1935,0,"USA, Mexico"
+31846,urn:lsid:nmbe.ch:spidersp:035479,Salticidae,Phidippus,octopunctatus,,G. W. Peckham & E. G. Peckham,1883,1,"USA, Mexico"
+31849,urn:lsid:nmbe.ch:spidersp:039146,Salticidae,Phidippus,phoenix,,Edwards,2004,0,"USA, Mexico"
+31851,urn:lsid:nmbe.ch:spidersp:039147,Salticidae,Phidippus,pompatus,,Edwards,2004,0,Mexico
+31861,urn:lsid:nmbe.ch:spidersp:035495,Salticidae,Phidippus,texanus,,Banks,1906,0,"USA, Mexico"
+31864,urn:lsid:nmbe.ch:spidersp:035496,Salticidae,Phidippus,toro,,Edwards,1978,0,"USA, Mexico"
+31865,urn:lsid:nmbe.ch:spidersp:035500,Salticidae,Phidippus,tux,,Pinter,1970,0,"USA, Mexico"
+31866,urn:lsid:nmbe.ch:spidersp:039150,Salticidae,Phidippus,tyrannus,,Edwards,2004,0,"USA, Mexico"
+31867,urn:lsid:nmbe.ch:spidersp:035501,Salticidae,Phidippus,tyrrelli,,G. W. Peckham & E. G. Peckham,1901,0,"Canada, USA, Mexico"
+31869,urn:lsid:nmbe.ch:spidersp:039152,Salticidae,Phidippus,venus,,Edwards,2004,0,Mexico
+31875,urn:lsid:nmbe.ch:spidersp:039154,Salticidae,Phidippus,zethus,,Edwards,2004,0,Mexico
+32041,urn:lsid:nmbe.ch:spidersp:035633,Salticidae,Platycryptus,californicus,,G. W. Peckham & E. G. Peckham,1888,1,"Canada, USA, Mexico"
+32042,urn:lsid:nmbe.ch:spidersp:034473,Salticidae,Platycryptus,magnus,,G. W. Peckham & E. G. Peckham,1894,1,Mexico to Brazil
+32092,urn:lsid:nmbe.ch:spidersp:035673,Salticidae,Plexippus,petersi,,Karsch,1878,1,"Asia. Introduced to Africa, Pacific is., Mexico"
+32098,urn:lsid:nmbe.ch:spidersp:035679,Salticidae,Plexippus,seladonicus,,C. L. Koch,1846,0,Mexico
+32101,urn:lsid:nmbe.ch:spidersp:035683,Salticidae,Plexippus,taeniatus,,C. L. Koch,1846,0,Mexico
+32476,urn:lsid:nmbe.ch:spidersp:035997,Salticidae,Salticus,austinensis,,Gertsch,1936,0,"USA, Mexico, Central America"
+32503,urn:lsid:nmbe.ch:spidersp:036023,Salticidae,Salticus,palpalis,,Banks,1904,1,"USA, Mexico"
+32537,urn:lsid:nmbe.ch:spidersp:036066,Salticidae,Sarinda,cutleri,,Richman,1965,1,"USA, Mexico"
+32550,urn:lsid:nmbe.ch:spidersp:036079,Salticidae,Sassacus,alboguttatus,,F. O. Pickard-Cambridge,1901,1,Mexico
+32553,urn:lsid:nmbe.ch:spidersp:041666,Salticidae,Sassacus,aztecus,,Richman,2008,0,Mexico
+32554,urn:lsid:nmbe.ch:spidersp:036082,Salticidae,Sassacus,barbipes,,G. W. Peckham & E. G. Peckham,1888,1,Mexico to Costa Rica
+32562,urn:lsid:nmbe.ch:spidersp:041667,Salticidae,Sassacus,lirios,,Richman,2008,0,Mexico to Costa Rica
+32564,urn:lsid:nmbe.ch:spidersp:036089,Salticidae,Sassacus,paiutus,,Gertsch,1934,1,"USA, Mexico"
+32567,urn:lsid:nmbe.ch:spidersp:041665,Salticidae,Sassacus,samalayucae,,Richman,2008,0,Mexico
+32588,urn:lsid:nmbe.ch:spidersp:036113,Salticidae,Semiopyla,cataphracta,,Simon,1901,0,Mexico to Argentina
+32633,urn:lsid:nmbe.ch:spidersp:036143,Salticidae,Sidusa,nigrina,,F. O. Pickard-Cambridge,1901,0,Mexico
+32718,urn:lsid:nmbe.ch:spidersp:036214,Salticidae,Attulus,cautus,,G. W. Peckham & E. G. Peckham,1888,1,Mexico
+32721,urn:lsid:nmbe.ch:spidersp:036217,Salticidae,Attinella,concolor,,Banks,1895,1,"USA, Mexico"
+32727,urn:lsid:nmbe.ch:spidersp:036223,Salticidae,Attinella,dorsata,,Banks,1895,1,"USA, Mexico"
+32759,urn:lsid:nmbe.ch:spidersp:036254,Salticidae,Tomis,palpalis,,F. O. Pickard-Cambridge,1901,0,"Mexico, Paraguay, Argentina"
+32763,urn:lsid:nmbe.ch:spidersp:036258,Salticidae,Mexigonus,peninsulanus,,Banks,1898,1,Mexico
+32936,urn:lsid:nmbe.ch:spidersp:036381,Salticidae,Synageles,mexicanus,,Cutler,1988,0,"USA, Mexico"
+32982,urn:lsid:nmbe.ch:spidersp:036421,Salticidae,Synemosyna,americana,,G. W. Peckham & E. G. Peckham,1885,1,Mexico to Venezuela
+32986,urn:lsid:nmbe.ch:spidersp:036424,Salticidae,Synemosyna,decipiens,,O. Pickard-Cambridge,1896,1,"Mexico, Guatemala"
+32987,urn:lsid:nmbe.ch:spidersp:036425,Salticidae,Sympolymnia,edwardsi,,Cutler,1985,1,Mexico to Costa Rica
+32993,urn:lsid:nmbe.ch:spidersp:036431,Salticidae,Synemosyna,maddisoni,,Cutler,1985,0,"Mexico, Guatemala"
+33145,urn:lsid:nmbe.ch:spidersp:039434,Salticidae,Colonus,hesperus,,Richman & Vetter,2004,1,"USA, Mexico"
+33274,urn:lsid:nmbe.ch:spidersp:036639,Salticidae,Titanattus,saevus,,G. W. Peckham & E. G. Peckham,1885,0,"Mexico, Guatemala"
+33574,urn:lsid:nmbe.ch:spidersp:036907,Salticidae,Zuniga,magna,,G. W. Peckham & E. G. Peckham,1892,0,"Mexico, Costa Rica to Brazil, Guyana, Peru, Argentina"
+53320,urn:lsid:nmbe.ch:spidersp:046776,Salticidae,Lyssomanes,maddisoni,,Logunov,2014,0,Mexico
+53323,urn:lsid:nmbe.ch:spidersp:046779,Salticidae,Lyssomanes,mexicanus,,Logunov,2014,0,Mexico
+54294,urn:lsid:nmbe.ch:spidersp:047866,Salticidae,Maeota,setastrobilaris,,Garcilazo-Cruz & Álvarez-Padilla,2015,0,Mexico
+55227,urn:lsid:nmbe.ch:spidersp:048810,Salticidae,Habronattus,arcalorus,,Maddison & Maddison,2016,0,"USA, Mexico?"
+55440,urn:lsid:nmbe.ch:spidersp:049025,Salticidae,Habronattus,aestus,,Maddison,2017,0,Mexico
+55441,urn:lsid:nmbe.ch:spidersp:049026,Salticidae,Habronattus,chamela,,Maddison,2017,0,Mexico
+55442,urn:lsid:nmbe.ch:spidersp:049027,Salticidae,Habronattus,empyrus,,Maddison,2017,0,Mexico
+55444,urn:lsid:nmbe.ch:spidersp:049029,Salticidae,Habronattus,roberti,,Maddison,2017,0,Mexico
+56193,urn:lsid:nmbe.ch:spidersp:049809,Salticidae,Thiodina,perian,,Bustamante & Ruiz,2017,0,Mexico
+57573,urn:lsid:nmbe.ch:spidersp:051283,Salticidae,Anicius,chiapanecus,,Guerrero-Fuentes & Francke,2019,0,Mexico
+57574,urn:lsid:nmbe.ch:spidersp:051284,Salticidae,Anicius,cielito,,Guerrero-Fuentes & Francke,2019,0,Mexico
+57575,urn:lsid:nmbe.ch:spidersp:051285,Salticidae,Anicius,faunus,,Guerrero-Fuentes & Francke,2019,0,Mexico
+57576,urn:lsid:nmbe.ch:spidersp:051286,Salticidae,Anicius,grisae,,Guerrero-Fuentes & Francke,2019,0,Mexico
+57577,urn:lsid:nmbe.ch:spidersp:051287,Salticidae,Anicius,maddisoni,,Guerrero-Fuentes & Francke,2019,0,Mexico
+57792,urn:lsid:nmbe.ch:spidersp:051513,Salticidae,Amilaps,mayana,,Maddison,2019,0,"Mexico, Guatemala"
+58340,urn:lsid:nmbe.ch:spidersp:052073,Salticidae,Lyssomanes,franckei,,Galvis,2020,0,Mexico
+58516,urn:lsid:nmbe.ch:spidersp:052307,Salticidae,Phidippus,pacosauritus,,Edwards,2020,0,Mexico
+59674,urn:lsid:nmbe.ch:spidersp:053502,Salticidae,Gypogyna,mexicana,,Ruiz & Bustamante,2021,0,Mexico
