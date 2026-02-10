@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo analizar la diversidad y distribución de las 
 
 ### Carga y preprocesamiento de datos
 Se descargaron los siguientes conjuntos de datos:
-* **Catálogo mundial de arañas:** versión 27 ([world_spider_catalog_20260209.csv](data/raw/world_spider_catalog_20260209.csv))
+* **Catálogo mundial de arañas:** versión 27 ([world_spider_catalog_20260209.csv](data/raw/world_spider_catalog.csv))
 * **SNIB:** registros de ejemplares de la familia Salticidae en México ([salticidae_mexico_conabio.csv](data/raw/salticidae_mexico_conabio.csv))
 
 Los datos fueron limpiados y formateados para su posterior análisis en Python.
@@ -29,6 +29,8 @@ Los datos fueron limpiados y formateados para su posterior análisis en Python.
 ---
 
 ### Referencias
-World Spider Catalog 2026. World Spider Catalog. Version 27. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on February 9, 2026. doi: 10.24436/2
+CONABIO. 2024. National Biodiversity Information System. Specimen Records. National Commission for the Knowledge and Use of Biodiversity. Mexico City, Mexico
 
-CONABIO. 2024. Sistema Nacional de Información sobre Biodiversidad. Registros de ejemplares. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Ciudad de México, México.
+iNaturalist Community. 2026. Salticidae observations made between 2016 and 2026. Exported from https://www.inaturalist.org on January 21, 2026
+
+World Spider Catalog 2026. World Spider Catalog. Version 27. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on February 9, 2026. doi: 10.24436/2

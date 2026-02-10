@@ -1,0 +1,76 @@
+Exportado en 2026-01-21T21:25:19Z
+
+Consulta: quality_grade=research&identifications=any&place_id=6793&taxon_id=48139&month%5B%5D=1&month%5B%5D=2&month%5B%5D=3&month%5B%5D=4&month%5B%5D=5&month%5B%5D=6&month%5B%5D=7&month%5B%5D=8&month%5B%5D=9&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&verifiable=true&d1=2016&d2=2026-01-21&spam=false
+
+Columnas:
+id: Identificador único y secuencial para la observación.
+uuid: Identificador único universal para la observación. Ver https://datatracker.ietf.org/doc/html/rfc9562
+observed_on_string: Fecha/hora registrada por el observador
+observed_on: Fecha normalizada de observación
+time_observed_at: Fecha normalizada de observación
+time_zone: Huso horario de la observación
+user_id: Identificador secuencial único para el observador
+user_login: Nombre de usuario del observado, e.g. una identificación alfanumérica, corta y única para un usuario
+user_name: Nombre del observador, generalmente usado para atribución en la página. Este campo es opcional y puede ser un seudónimo.
+created_at: Fecha de creación de la observación
+updated_at: Última fecha de actualización de la observación
+quality_grade: Grado de calidad de esta observación. Consulte la sección Ayuda para más detalles sobre lo que esto significa. Vea https://help.inaturalist.org/support/solutions/articles/151000169936
+license: Identificador para la licencia o retirada que el observador ha elegido para esta observación. Se reservan todos los derechos si está en blanco.
+url: URL de la observación
+image_url: URL de la primera foto asociada a la observación
+sound_url: URL del primer sonido asociado con la observación. Esto sólo estará presente para archivos subidos directamente, no para sonidos en servicios ajenos
+tag_list: Lista de etiquetas separadas por comas
+description: Texto escrito por el observador describiendo la observación o comentando cualquier otra nota que parezca relevante
+num_identification_agreements: Número de identificaciones asociados con los taxones que concuerdan o están incluidas dentro del taxón de la identificación del observador
+num_identification_disagreements: Número de identificaciones asociados con los taxones no que concuerdan o no están incluidas dentro del taxón de la identificación del observador
+captive_cultivated: La observación es del primer organismo que existe en el momento y lugar en el que fue observado porque humanos lo idearon para estar allí en ese lugar y momento. Para más, ver https://help.inaturalist.org/support/solutions/articles/151000169932
+oauth_application_id: Identificador secuencial para la aplicación que creó la observación. Para más información sobre la aplicación, adjunta el número en https://www.inaturalist.org/oauth/applications/
+place_guess: Descripción de la localidad registrada por el observador
+latitude: Latitud visible públicamente desde la ubicación de observación
+longitude: Longitud visible públicamente desde la ubicación de observación
+positional_accuracy: Precisión de las coordenadas
+private_place_guess: Ubicación de la observación escrita por el observador si la ubicación está difuminada
+private_latitude: Latitud privada, selecciona si la observación es privada o está oscurecida
+private_longitude: Longitud privada, selecciona si la observación es privada o está oscurecida
+public_positional_accuracy: Maximum horizontal positional uncertainty in meters; includes uncertainty added by coordinate obscuration
+geoprivacy: Si el observador ha optado o no por ocultar las coordenadas. Vea https://help.inaturalist.org/support/solutions/articles/151000169938
+taxon_geoprivacy: Se aplicaron políticas de geoprivacidad más conservadoras debido al estado de conservación del taxón identificado actualmente.
+coordinates_obscured: Si las coordenadas se han ocultado, o no, por una condición de geoprivacidad o por tratarse de un taxón vulnerable
+positioning_method: Cómo se determinaron las coordenadas
+positioning_device: Dispositivo usado para determinar las coordenadas
+place_town_name: El nombre del pueblo o ciudad que contiene las coordenadas de esta observación, si se conoce
+place_county_name: El nombre del área administrativa de tercer nivel que contiene las coordinadas de la observación (e.g. un condado en la mayor parte de Estados Unidos)
+place_state_name: El nombre del área administrativa de segundo nivel que contiene las coordinadas de la observación (e.g. un estado en la mayor parte de Estados Unidos)
+place_country_name: El nombre del país que contiene las coordenadas de esta observación
+place_admin1_name: Nombre del sitio administrativo un rango debajo del nivel de país
+place_admin2_name: Nombre del sitio administrativo dos rangos debajo del nivel de país
+species_guess: El nombre en texto del taxón observado puede ser establecido por el observador durante la creación de la observación, pero puede ser reemplazado con nombres canónicos localizados cuando el taxón cambia
+scientific_name: Nombre científico del taxón según iNaturalist
+common_name: Nombre común del taxón observado según iNaturalist.
+iconic_taxon_name: Categoría taxonómica de nivel superior para el taxón observado
+taxon_id: Identificador único del taxón observado
+taxon_kingdom_name: Nombre del reino taxonómico que contiene el taxón observado
+taxon_phylum_name: Nombre del filo taxonómico que contiene el taxón observado
+taxon_subphylum_name: Nombre del subfilo taxonómico que contiene el taxón observado
+taxon_superclass_name: Nombre de la superclase taxonómica que contiene el taxón observado
+taxon_class_name: Nombre de la clase taxonómica que contiene el taxón observado
+taxon_subclass_name: Nombre de la subclase taxonómica que contiene el taxón observado
+taxon_superorder_name: Nombre del superorden taxonómico que contiene el taxón observado
+taxon_order_name: Nombre del orden taxonómico que contiene el taxón observado
+taxon_suborder_name: Nombre del suborden taxonómico que contiene el taxón observado
+taxon_superfamily_name: Nombre de la superfamilia taxonómica que contiene el taxón observado
+taxon_family_name: Nombre de la familia taxonómica que contiene el taxón observado
+taxon_subfamily_name: Nombre de la subfamilia taxonómica que contiene el taxón observado
+taxon_supertribe_name: Nombre de la supertribu taxonómica que contiene el taxón observado
+taxon_tribe_name: Nombre de la tribu taxonómica que contiene el taxón observado
+taxon_subtribe_name: Nombre de la subtribu taxonómica que contiene el taxón observado
+taxon_genus_name: Nombre del género taxonómico que contiene el taxón observado
+taxon_genushybrid_name: Nombre del género híbrido taxonómico que contiene el taxón observado
+taxon_species_name: Nombre de la especie taxonómica que contiene el taxón observado
+taxon_hybrid_name: Nombre del híbrido taxonómico que contiene el taxón observado
+taxon_subspecies_name: Nombre de la subespecie taxonómica que contiene el taxón observado
+taxon_variety_name: Nombre de la variedad taxonómica que contiene el taxón observado
+taxon_form_name: Nombre de la forma taxonómica que contiene el taxón observado
+
+Para más información sobre los encabezados de columnas, vea https://www.inaturalist.org/terminology
+
